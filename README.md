@@ -1,28 +1,19 @@
-# calculator
-A simple calculator built using Java.
-# Web Calculator
+# Calculator Collection
 
-This is a simple calculator project made using HTML, CSS, and JavaScript. I created it to practise web development and learn how these technologies work together.
+This repository contains three calculator projects made using different programming languages. I created these projects to practise my coding skills and learn more about programming.
 
-## Features
+## Projects
 
-* Addition, subtraction, multiplication, and division
-* Percentage calculation
-* Clear and delete buttons
-* Decimal numbers
-* Simple and attractive design
+* **C Calculator** – Made using C.
+* **Java Calculator** – Made using Java.
+* **Web Calculator** – Made using HTML, CSS, and JavaScript.
 
-## Technologies Used
+## What I Learned
 
-* HTML
-* CSS
-* JavaScript
-
-## How to Run
-
-1. Download the project.
-2. Open the `index.html` file in your browser.
-3. Start using the calculator.
+* Basic programming concepts
+* Using operators and conditions
+* Working with different programming languages
+* Creating a simple web interface
 
 ## Author
 
